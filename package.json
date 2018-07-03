@@ -1,0 +1,21 @@
+{
+  "name": "browserslist-config-trigen",
+  "version": "1.0.0",
+  "description": "Trigen's browserslist config",
+  "author": "dangreen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrigenSoftware/browserslist-config-trigen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TrigenSoftware/browserslist-config-trigen/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "browserslist"
+  ],
+  "files": [
+    "index.js"
+  ]
+}
