@@ -19,5 +19,9 @@ yarn add -D browserslist-config-trigen
 
 Add `extends browserslist-config-trigen` to your `.browserslistrc`.
 
+Use `browserslist-config-trigen/browsers` to request only browsers versions.
+
+Use `browserslist-config-trigen/node` to request only NodeJS versions.
+
 ---
 [![NPM](https://nodei.co/npm/browserslist-config-trigen.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/browserslist-config-trigen/)

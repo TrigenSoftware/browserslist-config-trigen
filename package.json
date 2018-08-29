@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-trigen",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Trigen's browserslist config",
   "author": "dangreen",
   "license": "MIT",
@@ -16,6 +16,8 @@
     "browserslist"
   ],
   "files": [
-    "index.js"
+    "index.js",
+    "browsers.js",
+    "node.js"
   ]
 }
