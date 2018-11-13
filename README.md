@@ -7,7 +7,7 @@
 
 Trigen's browserslist config.
 
-# Install
+## Install
 
 ```bash
 npm i -D browserslist-config-trigen
@@ -15,7 +15,7 @@ npm i -D browserslist-config-trigen
 yarn add -D browserslist-config-trigen
 ```
 
-# Configure
+## Configure
 
 Add `extends browserslist-config-trigen` to your `.browserslistrc`.
 
