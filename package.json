@@ -16,8 +16,8 @@
     "node": ">=8.0.0"
   },
   "scripts": {
-    "lint": "trigen-scripts lint '**/*.js'",
-    "test": "trigen-scripts test '**/*.js'",
+    "lint": "trigen-scripts lint",
+    "test": "trigen-scripts test",
     "cleanPublish": "trigen-scripts cleanPublish"
   },
   "keywords": [
