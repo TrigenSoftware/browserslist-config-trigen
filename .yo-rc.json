@@ -1,0 +1,19 @@
+{
+  "generator-trigen-lib": {
+    "editPackage": true,
+    "pkg": {
+      "name": "browserslist-config-trigen",
+      "version": "1.1.0",
+      "description": "Trigen's browserslist config",
+      "repository": "https://github.com/TrigenSoftware/browserslist-config-trigen",
+      "author": "dangreen"
+    },
+    "type": "config",
+    "lang": "js",
+    "rollup": false,
+    "checkSize": false,
+    "jest": false,
+    "coverage": false,
+    "cleanPublish": true
+  }
+}
