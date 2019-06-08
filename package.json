@@ -12,9 +12,22 @@
     "url": "https://github.com/TrigenSoftware/browserslist-config-trigen/issues"
   },
   "main": "index.js",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "lint": "trigen-scripts lint '**/*.js'",
+    "test": "trigen-scripts test '**/*.js'",
+    "cleanPublish": "trigen-scripts cleanPublish"
+  },
   "keywords": [
     "browserslist"
   ],
+  "devDependencies": {
+    "@trigen/scripts": "2",
+    "@trigen/scripts-plugin-eslint": "2",
+    "@trigen/scripts-preset-lib": "2"
+  },
   "files": [
     "index.js",
     "browsers.js",
