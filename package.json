@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-trigen",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Trigen's browserslist config",
   "author": "dangreen",
   "license": "MIT",
@@ -13,7 +13,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=10.0.0"
   },
   "scripts": {
     "lint": "trigen-scripts lint",

@@ -3,7 +3,7 @@
 [![NPM version][npm]][npm-url]
 [![Node version][node]][node-url]
 [![Build status][build]][build-url]
-[![Greenkeeper badge][greenkeeper]][greenkeeper-url]
+[![Dependabot badge][dependabot]][dependabot-url]
 
 [npm]: https://img.shields.io/npm/v/browserslist-config-trigen.svg
 [npm-url]: https://npmjs.com/package/browserslist-config-trigen
@@ -14,8 +14,8 @@
 [build]: http://img.shields.io/travis/com/TrigenSoftware/browserslist-config-trigen.svg
 [build-url]: https://travis-ci.com/TrigenSoftware/browserslist-config-trigen
 
-[greenkeeper]: https://badges.greenkeeper.io/TrigenSoftware/browserslist-config-trigen.svg
-[greenkeeper-url]: https://greenkeeper.io/
+[dependabot]: https://api.dependabot.com/badges/status?host=github&repo=TrigenSoftware/browserslist-config-trigen
+[dependabot-url]: https://dependabot.com/
 
 Trigen's browserslist config.
 
