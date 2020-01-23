@@ -24,7 +24,7 @@
     "browserslist"
   ],
   "devDependencies": {
-    "@trigen/scripts": "3",
+    "@trigen/scripts": "4",
     "@trigen/scripts-plugin-eslint": "3",
     "@trigen/scripts-preset-lib": "3"
   },
