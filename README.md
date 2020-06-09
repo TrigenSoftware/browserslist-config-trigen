@@ -29,8 +29,17 @@ yarn add -D browserslist-config-trigen
 
 ## Configure
 
-Add `extends browserslist-config-trigen` to your `.browserslistrc`.
+Create `.browserslistrc` with next content:
 
-Use `browserslist-config-trigen/browsers` to request only browsers versions.
+```
+extends browserslist-config-trigen
+```
 
-Use `browserslist-config-trigen/node` to request only NodeJS versions.
+### Other configs
+
+There are other configs for different platforms:
+
+| Config | Description |
+|--------|-------------|
+| browserslist-config-trigen/browsers | Only browsers. |
+| browserslist-config-trigen/node | Only NodeJS. |
