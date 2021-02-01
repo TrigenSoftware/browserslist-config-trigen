@@ -26,7 +26,7 @@
   "devDependencies": {
     "@trigen/scripts": "3",
     "@trigen/scripts-plugin-eslint": "3",
-    "@trigen/scripts-preset-lib": "3"
+    "@trigen/scripts-preset-lib": "7"
   },
   "files": [
     "index.js",
